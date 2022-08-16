@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+    padding: 20px 100px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color:  #646464;
+    display: flex;
+   justify-content: space-between;
+ }
+ #logo1 {
+    width: 110px;
+ }
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 20px;
+    color: white;
+    font-size: larger;
+}
+footer {
+    
+    width: 100%;
+    padding: 20px 100px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color:  #646464;
+    display: flex;
+   justify-content: space-between;
+}
+#logo2 {
+    width: 110px;
+}
+#copys {
+    width: 90px;
+}
+#sec5 {
+    color: white;
+}
+main {
+    text-align: center;
+    margin: 30px;
+}
